@@ -1,10 +1,9 @@
 ---
 name: calculated-audacity-assessment
-description: Evaluate whether a bold move is warranted vs. a conventional approach,
-  balancing risk with potential reward.
+description: Evaluate whether a bold move is warranted vs. a conventional approach, balancing risk with potential reward.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - calculated-audacity-assessment

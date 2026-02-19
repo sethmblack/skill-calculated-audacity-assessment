@@ -3,8 +3,9 @@ name: calculated-audacity-assessment
 description: Evaluate whether a bold move is warranted vs. a conventional approach, balancing risk with potential reward.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3521
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - calculated-audacity-assessment
 - writing
